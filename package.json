@@ -1,0 +1,29 @@
+{
+  "name": "chartroom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.11.4",
+    "@babel/polyfill": "^7.10.4",
+    "@babel/preset-env": "^7.11.0",
+    "babel-loader": "^8.1.0",
+    "bootstrap": "^3.4.1",
+    "core-js": "^3.6.5",
+    "css-loader": "^4.2.1",
+    "express": "^4.17.1",
+    "html-loader": "^1.2.1",
+    "html-webpack-plugin": "^4.3.0",
+    "socket-io": "^1.0.0",
+    "socket.io": "^2.3.0",
+    "style-loader": "^1.2.1",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  }
+}
